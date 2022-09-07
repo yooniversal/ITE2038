@@ -31,4 +31,4 @@ B+ Tree의 주요 기능인 `Insertion`, `Deletion`, `Single Key Search`, `Range
 </div>
 
 입력받은 정보를 SQL문에 넣고 DB에 쿼리를 날려 필요에 따라 정보를 가져오거나 업데이트하며 동작합니다.<br>
-코드에 대한 자세한 설명은 `2018062733_윤동빈_P4.pdf`에 있습니다.
+- [more details...](https://github.com/yooniversal/ITE2038/blob/main/Project4/2018062733_%EC%9C%A4%EB%8F%99%EB%B9%88_P4.pdf)
